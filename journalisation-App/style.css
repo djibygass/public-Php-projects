@@ -1,0 +1,19 @@
+table {
+    border-collapse:collapse;
+    width: 100%;
+}
+td,th,tr{
+    padding: 20px;
+    border-bottom: 2px solid black;
+    text-align: left;  
+} 
+form .conteneur
+{
+  width: 700px;
+  display: flex;
+  justify-content: space-between;
+}
+.Danger
+{
+  color: red;
+}
