@@ -1,0 +1,45 @@
+body
+{
+	text-align: center;
+}
+#container
+{
+	 font-style: white;
+	background-color: white;
+	/*width: calc(100%-10rem);	*/
+	max-width: 400px;
+	margin: 0 auto;
+}
+div
+{
+	background-color: red;
+	font-size: 1.2em;
+	color: white; 
+	margin-top: 0.5em;
+	text-align: left;
+
+}
+input[type="text"]
+{
+	width: 300px;
+}
+#lastb
+{
+	border-radius: 1em;
+}
+a
+{
+	text-align: right;	
+	outline: 	none;
+	text-decoration: none;
+	color: white;
+}
+button{
+	text-align: right;
+}
+#souscontainer
+{
+	display: flex;
+	justify-content: space-between;
+}
+
